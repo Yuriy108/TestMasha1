@@ -1,0 +1,2 @@
+rootProject.name='TestMasha'
+include ':app'
